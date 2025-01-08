@@ -8,9 +8,11 @@
 <p dir="auto">I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with ReactJS but some technologies I enjoy working with include NextJS, JavaScript as well as NodeJs.</p>
 <h2 dir="auto"><a id="user-content--skills--experiance" class="anchor" aria-hidden="true" href="#-skills--experiance"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>👨‍💻 Skills &amp; Experiance:</h2>
 <p dir="auto">✅ JavaScript <br>
-✅ ReactJs <br>
+✅ Typescript <br>
 ✅ NextJS <br>
 ✅ NodeJS <br>
+✅ ExpressJS <br>
+✅ Mongoose <br>
 ✅ HTML5 / CSS3 / SASS / Bootstrap / Tailwind <br>
 <!-- ✅ Photoshop / Illustrator <br></p> -->
 <!-- <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7e28faadc283819afba6b86a28d2688786f186bf484c14f8a6d4bb2143b4faab/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d73686f766f616c77617973266c61796f75743d636f6d70616374"><img src="https://camo.githubusercontent.com/7e28faadc283819afba6b86a28d2688786f186bf484c14f8a6d4bb2143b4faab/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d73686f766f616c77617973266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=shovoalways&amp;layout=compact" style="max-width: 100%;"></a></p> -->

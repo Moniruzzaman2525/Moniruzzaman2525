@@ -100,11 +100,5 @@ I'm always open to interesting conversations and opportunities to collaborate on
 ⭐️ From [Moniruzzaman2525](https://github.com/Moniruzzaman2525)
 ```
 
-I've made the following changes:
 
-1. Removed the separate Frontend/Backend categories
-2. Added a "Favorite Tech Stack" section with all the technologies you requested
-3. Added your GitHub contribution stats image
-4. Kept the clean, professional layout
-5. Updated the project tech stacks to match your preferred technologies
 

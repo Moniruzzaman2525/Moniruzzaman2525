@@ -91,7 +91,7 @@ class Developer {
 
 I'm always open to interesting conversations and opportunities to collaborate on exciting projects!
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/moniruzzaman25/](https://www.linkedin.com/in/moniruzzaman25/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/moniruzzaman25/)
 - 📱 [Facebook](https://www.facebook.com/moniruzzaman255/)
 - 📧 Email: [web.moniruzzaman1@gmail.com](mailto:web.moniruzzaman1@gmail.com)
 

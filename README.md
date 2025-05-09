@@ -78,12 +78,13 @@ class Developer {
 <details>
   <summary>Project 1: Second Hand Bangladesh</summary>
   
-I've added your "Second Hand Bangladesh" project as a featured project with:
+  I've added your "Second Hand Bangladesh" project as a featured project with:
   
-  - Features: Responsive design, dark/light mode, contact form
-  - Tech stack: Next.js, Tailwind CSS, TypeScript, Express.js
-  - [View Repository](https://second-hand-client-dc3y.vercel.app/) <!-- Add your repo link -->
+  - Features: Responsive design, dark/light mode, contact form  
+  - Tech stack: Next.js, Tailwind CSS, TypeScript, Express.js  
+  - <a href="https://second-hand-client-dc3y.vercel.app/" target="_blank" rel="noopener noreferrer">View Repository</a>
 </details>
+
 
 ## 📫 Let's Connect
 

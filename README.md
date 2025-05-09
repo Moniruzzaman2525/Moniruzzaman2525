@@ -1,34 +1,94 @@
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><h2 dir="auto"><a id="user-content-hi-im-ali-hossain-" class="anchor" aria-hidden="true" href="#hi-im-ali-hossain-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Hi, I'm Md Moniruzzaman 👋</h2>
-<p dir="auto">
-👑 I am Web Developer <br> 
-🖊️ Love to write code <br> 
-🎤 Like to share my knowledge </p> 
-<!-- <p align="left" dir="auto"> <a href="https://twitter.com/shovoalways" rel="nofollow"><img src="https://camo.githubusercontent.com/5b4694c467615a09cb4b3c811d2c59b3f2eeab924ded1286f703914ab654495b/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f73686f766f616c776179733f6c6f676f3d74776974746572267374796c653d666f722d7468652d6261646765" alt="shovoalways" data-canonical-src="https://img.shields.io/twitter/follow/shovoalways?logo=twitter&amp;style=for-the-badge" style="max-width: 100%;"></a> </p> -->
-<h2 dir="auto"><a id="user-content--about-me" class="anchor" aria-hidden="true" href="#-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🚀 About Me</h2>
-<p dir="auto">I’m a Full Stack Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with ReactJS but some technologies I enjoy working with include NextJS, JavaScript as well as NodeJs.</p>
-<h2 dir="auto"><a id="user-content--skills--experiance" class="anchor" aria-hidden="true" href="#-skills--experiance"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>👨‍💻 Skills &amp; Experiance:</h2>
-<p dir="auto">✅ JavaScript <br>
-✅ Typescript <br>
-✅ NextJS <br>
-✅ NodeJS <br>
-✅ ExpressJS <br>
-✅ Mongoose <br>
-✅ HTML5 / CSS3 / SASS / Bootstrap / Tailwind <br>
-<!-- ✅ Photoshop / Illustrator <br></p> -->
-<!-- <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7e28faadc283819afba6b86a28d2688786f186bf484c14f8a6d4bb2143b4faab/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d73686f766f616c77617973266c61796f75743d636f6d70616374"><img src="https://camo.githubusercontent.com/7e28faadc283819afba6b86a28d2688786f186bf484c14f8a6d4bb2143b4faab/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d73686f766f616c77617973266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=shovoalways&amp;layout=compact" style="max-width: 100%;"></a></p> -->
-<h2 dir="auto"><a id="user-content--connect-with-me" class="anchor" aria-hidden="true" href="#-connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>☕ Connect with me!</h2>
-<p align="center">
-  <a href="https://www.facebook.com/moniruzzaman255/" rel="nofollow">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="40">
-  </a>
-  <a href="https://github.com/Moniruzzaman2525">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40">
-  </a>
-  <a href="https://www.linkedin.com/in/moniruzzaman25/" rel="nofollow">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40">
-  </a>
-</p>
+# Md Moniruzzaman
 
-<h2 dir="auto"><a id="user-content--for-business-inquiries" class="anchor" aria-hidden="true" href="#-for-business-inquiries"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>📧 For Business Inquiries</h2>
-<p dir="auto">✅  ► <a href="mailto:web.moniruzzaman1@gmail.com">web.moniruzzaman1@gmail.com</a></p>
-</article>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moniruzzaman25/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Moniruzzaman2525)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/moniruzzaman255/)
+
+## 👨‍💻 Full Stack Web Developer
+
+> 🖊️ Passionate about writing clean, efficient code  
+> 🎤 Enthusiastic knowledge sharer  
+> 💼 Dedicated to creating error-free websites with 100% client satisfaction
+
+## 🚀 About Me
+
+I'm a Full Stack Web Developer with a strong focus on creating high-quality, error-free websites that fully satisfy client requirements. My passion for continuous learning drives me to stay current with emerging technologies and share my knowledge openly with the community.
+
+I approach each project strategically, with clear goals and end results in mind. Throughout my career, I've successfully delivered hundreds of websites for clients across various industries. I take pride in producing quality work while maintaining excellent communication throughout the development process.
+
+While my primary expertise lies in ReactJS, I enjoy working with a diverse tech stack including NextJS, JavaScript, and NodeJS to solve real-world problems effectively.
+
+## 🛠️ Skills & Expertise
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+
+## 📈 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moniruzzaman2525&show_icons=true&theme=tokyonight)](https://github.com/Moniruzzaman2525)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moniruzzaman2525&layout=compact&theme=tokyonight)](https://github.com/Moniruzzaman2525)
+
+## 🔥 Recent Projects
+
+<!-- You can add your recent projects here -->
+<details>
+  <summary>Project 1: E-commerce Platform</summary>
+  
+  A full-stack e-commerce solution with React, Node.js, and MongoDB.
+  
+  - Features: User authentication, product catalog, cart functionality, payment integration
+  - Tech stack: React, Node.js, Express, MongoDB, Stripe
+  - [View Repository](#) <!-- Add your repo link -->
+</details>
+
+<details>
+  <summary>Project 2: Portfolio Website</summary>
+  
+  A responsive portfolio website built with Next.js and Tailwind CSS.
+  
+  - Features: Responsive design, dark/light mode, contact form
+  - Tech stack: Next.js, Tailwind CSS
+  - [View Repository](#) <!-- Add your repo link -->
+</details>
+
+## 📫 Let's Connect
+
+I'm always open to interesting conversations and opportunities to collaborate on exciting projects!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/moniruzzaman25/)
+- 📱 [Facebook](https://www.facebook.com/moniruzzaman255/)
+- 📧 Email: [web.moniruzzaman1@gmail.com](mailto:web.moniruzzaman1@gmail.com)
+
+---
+
+⭐️ From [Moniruzzaman2525](https://github.com/Moniruzzaman2525)
+```
+
+This README includes:
+
+1. A clean header with your name and social badges
+2. A concise introduction highlighting your role and key attributes
+3. A detailed "About Me" section that expands on your expertise and approach
+4. A well-organized skills section with visual badges
+5. GitHub stats to showcase your activity
+6. A collapsible projects section (you can fill in with your actual projects)
+7. Contact information with multiple channels
+8. Professional styling throughout
+
+You can customize this further by:
+

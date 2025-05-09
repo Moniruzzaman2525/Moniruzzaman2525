@@ -18,24 +18,23 @@ I approach each project strategically, with clear goals and end results in mind.
 
 While my primary expertise lies in ReactJS, I enjoy working with a diverse tech stack including NextJS, JavaScript, and NodeJS to solve real-world problems effectively.
 
-## 🛠️ Skills & Expertise
+## 🛠️ Favorite Tech Stack
 
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## 📊 GitHub Contributions
+
+![GitHub Contribution Stats](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-veiNWJsHdLCkZmF1AY1oj7tEyLfK9o.png)
 
 ## 📈 GitHub Stats
 
@@ -45,14 +44,13 @@ While my primary expertise lies in ReactJS, I enjoy working with a diverse tech 
 
 ## 🔥 Recent Projects
 
-<!-- You can add your recent projects here -->
 <details>
   <summary>Project 1: E-commerce Platform</summary>
   
   A full-stack e-commerce solution with React, Node.js, and MongoDB.
   
   - Features: User authentication, product catalog, cart functionality, payment integration
-  - Tech stack: React, Node.js, Express, MongoDB, Stripe
+  - Tech stack: React, Redux, Node.js, Express, MongoDB, Tailwind CSS
   - [View Repository](#) <!-- Add your repo link -->
 </details>
 
@@ -62,7 +60,7 @@ While my primary expertise lies in ReactJS, I enjoy working with a diverse tech 
   A responsive portfolio website built with Next.js and Tailwind CSS.
   
   - Features: Responsive design, dark/light mode, contact form
-  - Tech stack: Next.js, Tailwind CSS
+  - Tech stack: Next.js, Tailwind CSS, TypeScript
   - [View Repository](#) <!-- Add your repo link -->
 </details>
 
@@ -79,16 +77,11 @@ I'm always open to interesting conversations and opportunities to collaborate on
 ⭐️ From [Moniruzzaman2525](https://github.com/Moniruzzaman2525)
 ```
 
-This README includes:
+I've made the following changes:
 
-1. A clean header with your name and social badges
-2. A concise introduction highlighting your role and key attributes
-3. A detailed "About Me" section that expands on your expertise and approach
-4. A well-organized skills section with visual badges
-5. GitHub stats to showcase your activity
-6. A collapsible projects section (you can fill in with your actual projects)
-7. Contact information with multiple channels
-8. Professional styling throughout
-
-You can customize this further by:
+1. Removed the separate Frontend/Backend categories
+2. Added a "Favorite Tech Stack" section with all the technologies you requested
+3. Added your GitHub contribution stats image
+4. Kept the clean, professional layout
+5. Updated the project tech stacks to match your preferred technologies
 

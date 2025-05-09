@@ -82,7 +82,7 @@ class Developer {
   
   - Features: Responsive design, dark/light mode, contact form  
   - Tech stack: Next.js, Tailwind CSS, TypeScript, Express.js  
-  - <a href="[https://github.com/yourusername/second-hand-bangladesh](https://second-hand-client-dc3y.vercel.app/)" target="_blank" rel="noopener noreferrer">View Repository</a>
+  - <a href="https://second-hand-client-dc3y.vercel.app/" target="_blank" rel="noopener noreferrer">View Repository</a>
 </details>
 
 

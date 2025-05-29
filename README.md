@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="[https://i.ibb.co/tp7xsyS7/Green-Minimalist-Studio-Banner.png](https://www.canva.com/design/DAGoyY-S5N0/YVjZk9YIj6xN-XlFdz5kmA/edit)" alt="Md Moniruzzaman Banner" width="100%" />
+  <img src="https://www.canva.com/design/DAGoyY-S5N0/YVjZk9YIj6xN-XlFdz5kmA/edit" alt="Md Moniruzzaman Banner" width="100%" />
 </p>
 
 ## 👨‍💻 Full Stack Web Developer

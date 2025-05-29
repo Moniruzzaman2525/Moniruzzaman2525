@@ -41,6 +41,14 @@
 
 ---
 
+## 📊 Current Stats
+
+<p align="center">
+  <img src="https://i.ibb.co/H7WBsmY/github-contribution-stats.png" alt="GitHub Contributions Stats" />
+</p>
+
+---
+
 ## 📈 GitHub Insights
 
 <p align="center">
@@ -64,11 +72,19 @@
 
 ---
 
-## 📫 Let's Connect
+## 📬 Reach Me Out
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/moniruzzaman25/)
-- 📱 [Facebook](https://www.facebook.com/moniruzzaman255/)
-- 📧 Email: [web.moniruzzaman1@gmail.com](mailto:web.moniruzzaman1@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/moniruzzaman25/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/moniruzzaman255/">
+    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/">
+    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
 
 ---
 

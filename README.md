@@ -1,23 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co/hYR4R4h/moniruzzaman-banner.png" alt="Md Moniruzzaman Banner" width="100%" />
+  <img src="https://www.canva.com/design/DAGoyY-S5N0/YVjZk9YIj6xN-XlFdz5kmA/edit?utm_content=DAGoyY-S5N0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Md Moniruzzaman Banner" width="100%" />
 </p>
-
-# Md Moniruzzaman
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/moniruzzaman25/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Moniruzzaman2525" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/moniruzzaman255/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</p>
-
----
 
 ## 👨‍💻 Full Stack Web Developer
 
@@ -74,7 +58,12 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/moniruzzaman25/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Moniruzzaman2525" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/moniruzzaman255/" target="_blank">
-    <img src="https://im
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>

@@ -1,7 +1,8 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co/tp7xsyS7/Green-Minimalist-Studio-Banner.png" alt="Md Moniruzzaman Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Moniruzzaman2525/your-repo-name/main/assets/banner.png" alt="Banner" width="800" />
 </p>
+
 
 ## 👨‍💻 Full Stack Web Developer
 

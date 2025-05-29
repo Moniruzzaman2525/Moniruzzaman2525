@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Moniruzzaman2525/your-repo-name/main/assets/banner.png" alt="Banner" width="800" />
+  <img src="https://raw.githubusercontent.com/Moniruzzaman2525/Moniruzzaman2525/main/assets/banner.png" alt="Banner" width="800" />
 </p>
 
 
